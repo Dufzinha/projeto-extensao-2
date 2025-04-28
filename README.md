@@ -17,10 +17,6 @@ Este projeto foi desenvolvido como parte do **Projeto de Extensão II** do Curso
 ## Objetivo
 O projeto visa promover a **adoção responsável de animais**, contribuindo para a redução do abandono e auxiliando ONGs e protetores na divulgação dos animais que precisam de um lar.
 
-## Como Visualizar o Projeto
-Este projeto está hospedado no **GitHub Pages** e pode ser acessado pelo link:
-[Adote um Aumigo](https://seuusuario.github.io/adote-um-aumigo)
-
 ## Metas Aderentes aos ODS (Objetivos de Desenvolvimento Sustentável)
 - **Meta 15.5**: Reduzir a degradação de habitats naturais e proteger os animais.
 - **Meta 11.7**: Contribuir para espaços seguros e inclusivos (no contexto de lares para animais).
