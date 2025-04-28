@@ -20,4 +20,5 @@ O projeto visa promover a **adoção responsável de animais**, contribuindo par
 ## Metas Aderentes aos ODS (Objetivos de Desenvolvimento Sustentável)
 - **Meta 15.5**: Reduzir a degradação de habitats naturais e proteger os animais.
 - **Meta 11.7**: Contribuir para espaços seguros e inclusivos (no contexto de lares para animais).
+- **Meta 12.5**: Promover práticas sustentáveis ao estimular a adoção responsável e evitar abandono.
 - 🐱
