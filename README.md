@@ -11,7 +11,6 @@ Este projeto foi desenvolvido como parte do **Projeto de Extensão II** do Curso
 - **HTML5**: Para a estrutura do site.
 - **CSS3**: Para a estilização e layout.
 - **JavaScript**: Para a interatividade e funcionalidades dinâmicas.
-- **GitHub Pages**: Para hospedagem gratuita do site.
 - **API do WhatsApp**: Para comunicação rápida e fácil entre adotantes e protetores.
 
 ## Objetivo
