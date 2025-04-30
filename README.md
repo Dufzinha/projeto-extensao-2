@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte do **Projeto de Extensão II** do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. A plataforma tem como objetivo **facilitar o processo de adoção de animais**, conectando adotantes com ONGs e protetores independentes.
 
 ## Funcionalidades
-- 🐾 Exibição de informações dos animais, incluindo nome, idade, foto e descrição.
+- 🐾 Exibição de informações dos animais, incluindo nome, idade, foto e para saber mais entrar em contato.
 - 📲 Integração com WhatsApp para contato direto com os responsáveis pelos animais.
 - 🎨 Ícone personalizado (favicon) para o site.
 
