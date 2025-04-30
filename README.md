@@ -1,6 +1,7 @@
 # Adote um Aumigo - Plataforma de Adoção de Animais
 
 Este projeto foi desenvolvido como parte do **Projeto de Extensão II** do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. A plataforma tem como objetivo **facilitar o processo de adoção de animais**, conectando adotantes com ONGs e protetores independentes.
+
 (As imagens dos animais exibidas neste site são meramente ilustrativas e foram retiradas da internet. Os animais originalmente disponíveis para adoção já encontraram seus lares, mas continuamos incentivando a adoção responsável. Entre em contato para saber mais sobre outros animais que aguardam um lar.)
 
 ## Funcionalidades
